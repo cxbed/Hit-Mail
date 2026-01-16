@@ -1,0 +1,146 @@
+[11:52:26] SUCCESS: https://tldr.tech
+[11:52:29] SUCCESS: https://www.target.com/c/sign-up-for-email/-/N-4so35
+[12:02:44] SUCCESS: https://tldr.tech
+[12:02:46] SUCCESS: https://www.backthenhistory.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=BTH_Search&gad_source=1&gad_campaignid=23070350566&gbraid=0AAAABBex_LpWAayLrKSSwv1_Xhk6o8dRh&gclid=EAIaIQobChMI_fX-78KQkgMVnEH_AR0mggSJEAAYAiAAEgJ2yPD_BwE
+[12:02:50] SUCCESS: https://www.theretrospectdaily.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=Retro_Search&gad_source=1&gad_campaignid=23216788767&gbraid=0AAAABBex_LoULS2rz9eszI349GDk2nJpF&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYAyAAEgICrfD_BwE
+[12:02:50] SUCCESS: https://www.target.com/c/sign-up-for-email/-/N-4so35
+[12:02:53] SUCCESS: https://lp.join1440.com/240917/orig?utm_source=google&utm_medium=cpc&utm_term=keyword_newsletter+sign+up%3A%3Amatchtype_b&utm_content=694252955244%3A%3Anetwork_g%3A%3Adevice_c&utm_campaign=20583057583&gad_source=1&gad_campaignid=20583057583&gbraid=0AAAAADHI_5gpgYyn0g9jDTpX0ZeBKkQrr&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYBCAAEgKfRfD_BwE&rd=1
+[12:02:58] SUCCESS: https://www.thedailyupside.com/welcome/?utm_source=newsletter&utm_medium=search&gad_source=1&gad_campaignid=21406494923&gbraid=0AAAAAp1LkV7cz1y74N7RE7xMRXdJpj_mv&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAMYAiAAEgIvFvD_BwE
+[12:02:59] SUCCESS: https://blog.google/newsletter-subscribe/
+[12:02:59] SUCCESS: https://www.thedailyatom.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=DA_Search&gad_source=1&gad_campaignid=23060285703&gbraid=0AAAABBex_LpN1A3HCERLV0FmykYZfC9wD&gclid=EAIaIQobChMI5emlzsSQkgMV8jIIBR3zCDkTEAAYASAAEgKho_D_BwE
+[12:04:04] SUCCESS: https://www.backthenhistory.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=BTH_Search&gad_source=1&gad_campaignid=23070350566&gbraid=0AAAABBex_LpWAayLrKSSwv1_Xhk6o8dRh&gclid=EAIaIQobChMI_fX-78KQkgMVnEH_AR0mggSJEAAYAiAAEgJ2yPD_BwE
+[12:04:04] SUCCESS: https://tldr.tech
+[12:04:09] SUCCESS: https://www.target.com/c/sign-up-for-email/-/N-4so35
+[12:04:10] SUCCESS: https://www.theretrospectdaily.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=Retro_Search&gad_source=1&gad_campaignid=23216788767&gbraid=0AAAABBex_LoULS2rz9eszI349GDk2nJpF&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYAyAAEgICrfD_BwE
+[12:04:13] SUCCESS: https://lp.join1440.com/240917/orig?utm_source=google&utm_medium=cpc&utm_term=keyword_newsletter+sign+up%3A%3Amatchtype_b&utm_content=694252955244%3A%3Anetwork_g%3A%3Adevice_c&utm_campaign=20583057583&gad_source=1&gad_campaignid=20583057583&gbraid=0AAAAADHI_5gpgYyn0g9jDTpX0ZeBKkQrr&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYBCAAEgKfRfD_BwE&rd=1
+[12:04:16] SUCCESS: https://blog.google/newsletter-subscribe/
+[12:04:19] SUCCESS: https://www.thedailyupside.com/welcome/?utm_source=newsletter&utm_medium=search&gad_source=1&gad_campaignid=21406494923&gbraid=0AAAAAp1LkV7cz1y74N7RE7xMRXdJpj_mv&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAMYAiAAEgIvFvD_BwE
+[12:04:21] SUCCESS: https://www.thedailyatom.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=DA_Search&gad_source=1&gad_campaignid=23060285703&gbraid=0AAAABBex_LpN1A3HCERLV0FmykYZfC9wD&gclid=EAIaIQobChMI5emlzsSQkgMV8jIIBR3zCDkTEAAYASAAEgKho_D_BwE
+[12:10:33] SUCCESS: https://tldr.tech
+[12:10:35] SUCCESS: https://www.backthenhistory.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=BTH_Search&gad_source=1&gad_campaignid=23070350566&gbraid=0AAAABBex_LpWAayLrKSSwv1_Xhk6o8dRh&gclid=EAIaIQobChMI_fX-78KQkgMVnEH_AR0mggSJEAAYAiAAEgJ2yPD_BwE
+[12:10:38] SUCCESS: https://www.target.com/c/sign-up-for-email/-/N-4so35
+[12:10:39] SUCCESS: https://www.theretrospectdaily.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=Retro_Search&gad_source=1&gad_campaignid=23216788767&gbraid=0AAAABBex_LoULS2rz9eszI349GDk2nJpF&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYAyAAEgICrfD_BwE
+[12:10:41] SUCCESS: https://lp.join1440.com/240917/orig?utm_source=google&utm_medium=cpc&utm_term=keyword_newsletter+sign+up%3A%3Amatchtype_b&utm_content=694252955244%3A%3Anetwork_g%3A%3Adevice_c&utm_campaign=20583057583&gad_source=1&gad_campaignid=20583057583&gbraid=0AAAAADHI_5gpgYyn0g9jDTpX0ZeBKkQrr&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYBCAAEgKfRfD_BwE&rd=1
+[12:10:43] SUCCESS: https://blog.google/newsletter-subscribe/
+[12:10:45] SUCCESS: https://www.thedailyupside.com/welcome/?utm_source=newsletter&utm_medium=search&gad_source=1&gad_campaignid=21406494923&gbraid=0AAAAAp1LkV7cz1y74N7RE7xMRXdJpj_mv&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAMYAiAAEgIvFvD_BwE
+[12:10:48] SUCCESS: https://www.thedailyatom.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=DA_Search&gad_source=1&gad_campaignid=23060285703&gbraid=0AAAABBex_LpN1A3HCERLV0FmykYZfC9wD&gclid=EAIaIQobChMI5emlzsSQkgMV8jIIBR3zCDkTEAAYASAAEgKho_D_BwE
+[12:19:19] SUCCESS: https://www.backthenhistory.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=BTH_Search&gad_source=1&gad_campaignid=23070350566&gbraid=0AAAABBex_LpWAayLrKSSwv1_Xhk6o8dRh&gclid=EAIaIQobChMI_fX-78KQkgMVnEH_AR0mggSJEAAYAiAAEgJ2yPD_BwE
+[12:19:26] SUCCESS: https://tldr.tech
+[12:19:34] SUCCESS: https://www.target.com/c/sign-up-for-email/-/N-4so35
+[12:19:40] SUCCESS: https://www.theretrospectdaily.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=Retro_Search&gad_source=1&gad_campaignid=23216788767&gbraid=0AAAABBex_LoULS2rz9eszI349GDk2nJpF&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYAyAAEgICrfD_BwE
+[12:19:47] SUCCESS: https://lp.join1440.com/240917/orig?utm_source=google&utm_medium=cpc&utm_term=keyword_newsletter+sign+up%3A%3Amatchtype_b&utm_content=694252955244%3A%3Anetwork_g%3A%3Adevice_c&utm_campaign=20583057583&gad_source=1&gad_campaignid=20583057583&gbraid=0AAAAADHI_5gpgYyn0g9jDTpX0ZeBKkQrr&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYBCAAEgKfRfD_BwE&rd=1
+[12:19:53] SUCCESS: https://blog.google/newsletter-subscribe/
+[12:20:00] SUCCESS: https://www.thedailyupside.com/welcome/?utm_source=newsletter&utm_medium=search&gad_source=1&gad_campaignid=21406494923&gbraid=0AAAAAp1LkV7cz1y74N7RE7xMRXdJpj_mv&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAMYAiAAEgIvFvD_BwE
+[12:20:06] SUCCESS: https://www.thedailyatom.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=DA_Search&gad_source=1&gad_campaignid=23060285703&gbraid=0AAAABBex_LpN1A3HCERLV0FmykYZfC9wD&gclid=EAIaIQobChMI5emlzsSQkgMV8jIIBR3zCDkTEAAYASAAEgKho_D_BwE
+[12:20:12] SUCCESS: https://thisweekinreact.com/
+[12:20:19] SUCCESS: https://www.fullstackexpress.io/
+[12:26:46] SUCCESS: https://www.backthenhistory.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=BTH_Search&gad_source=1&gad_campaignid=23070350566&gbraid=0AAAABBex_LpWAayLrKSSwv1_Xhk6o8dRh&gclid=EAIaIQobChMI_fX-78KQkgMVnEH_AR0mggSJEAAYAiAAEgJ2yPD_BwE
+[12:26:53] SUCCESS: https://tldr.tech
+[12:27:05] SUCCESS: https://www.target.com/c/sign-up-for-email/-/N-4so35
+[12:27:11] SUCCESS: https://www.theretrospectdaily.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=Retro_Search&gad_source=1&gad_campaignid=23216788767&gbraid=0AAAABBex_LoULS2rz9eszI349GDk2nJpF&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYAyAAEgICrfD_BwE
+[12:27:18] SUCCESS: https://lp.join1440.com/240917/orig?utm_source=google&utm_medium=cpc&utm_term=keyword_newsletter+sign+up%3A%3Amatchtype_b&utm_content=694252955244%3A%3Anetwork_g%3A%3Adevice_c&utm_campaign=20583057583&gad_source=1&gad_campaignid=20583057583&gbraid=0AAAAADHI_5gpgYyn0g9jDTpX0ZeBKkQrr&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYBCAAEgKfRfD_BwE&rd=1
+[12:27:24] SUCCESS: https://blog.google/newsletter-subscribe/
+[12:27:31] SUCCESS: https://www.thedailyupside.com/welcome/?utm_source=newsletter&utm_medium=search&gad_source=1&gad_campaignid=21406494923&gbraid=0AAAAAp1LkV7cz1y74N7RE7xMRXdJpj_mv&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAMYAiAAEgIvFvD_BwE
+[12:27:38] SUCCESS: https://www.thedailyatom.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=DA_Search&gad_source=1&gad_campaignid=23060285703&gbraid=0AAAABBex_LpN1A3HCERLV0FmykYZfC9wD&gclid=EAIaIQobChMI5emlzsSQkgMV8jIIBR3zCDkTEAAYASAAEgKho_D_BwE
+[12:27:45] SUCCESS: https://thisweekinreact.com/
+[12:27:54] SUCCESS: https://www.fullstackexpress.io/
+[12:28:03] SUCCESS: https://www.mindstream.news/
+[12:28:16] SUCCESS: https://www.theskimm.com/daily-skimm?trk=article-ssr-frontend-pulse_little-text-block
+[12:28:22] SUCCESS: https://www.numlock.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2Fwww.numlock.com%2F%3Ftrk%3Darticle-ssr-frontend-pulse_little-text-block
+[12:37:36] SUCCESS: https://www.theretrospectdaily.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=Retro_Search&gad_source=1&gad_campaignid=23216788767&gbraid=0AAAABBex_LoULS2rz9eszI349GDk2nJpF&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYAyAAEgICrfD_BwE
+[12:37:38] SUCCESS: https://lp.join1440.com/240917/orig?utm_source=google&utm_medium=cpc&utm_term=keyword_newsletter+sign+up%3A%3Amatchtype_b&utm_content=694252955244%3A%3Anetwork_g%3A%3Adevice_c&utm_campaign=20583057583&gad_source=1&gad_campaignid=20583057583&gbraid=0AAAAADHI_5gpgYyn0g9jDTpX0ZeBKkQrr&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYBCAAEgKfRfD_BwE&rd=1
+[12:37:39] SUCCESS: https://www.backthenhistory.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=BTH_Search&gad_source=1&gad_campaignid=23070350566&gbraid=0AAAABBex_LpWAayLrKSSwv1_Xhk6o8dRh&gclid=EAIaIQobChMI_fX-78KQkgMVnEH_AR0mggSJEAAYAiAAEgJ2yPD_BwE
+[12:37:40] SUCCESS: https://tldr.tech
+[12:37:43] SUCCESS: https://www.target.com/c/sign-up-for-email/-/N-4so35
+[12:37:43] SUCCESS: https://blog.google/newsletter-subscribe/
+[12:37:49] SUCCESS: https://www.thedailyupside.com/welcome/?utm_source=newsletter&utm_medium=search&gad_source=1&gad_campaignid=21406494923&gbraid=0AAAAAp1LkV7cz1y74N7RE7xMRXdJpj_mv&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAMYAiAAEgIvFvD_BwE
+[12:37:49] SUCCESS: https://www.thedailyatom.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=DA_Search&gad_source=1&gad_campaignid=23060285703&gbraid=0AAAABBex_LpN1A3HCERLV0FmykYZfC9wD&gclid=EAIaIQobChMI5emlzsSQkgMV8jIIBR3zCDkTEAAYASAAEgKho_D_BwE
+[12:37:50] SUCCESS: https://thisweekinreact.com/
+[12:37:53] SUCCESS: https://www.fullstackexpress.io/
+[12:37:54] SUCCESS: https://www.mindstream.news/
+[12:37:59] SUCCESS: https://www.numlock.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2Fwww.numlock.com%2F%3Ftrk%3Darticle-ssr-frontend-pulse_little-text-block
+[12:38:00] SUCCESS: https://www.theskimm.com/daily-skimm?trk=article-ssr-frontend-pulse_little-text-block
+[12:39:53] SUCCESS: https://tldr.tech
+[12:39:58] SUCCESS: https://lp.join1440.com/240917/orig?utm_source=google&utm_medium=cpc&utm_term=keyword_newsletter+sign+up%3A%3Amatchtype_b&utm_content=694252955244%3A%3Anetwork_g%3A%3Adevice_c&utm_campaign=20583057583&gad_source=1&gad_campaignid=20583057583&gbraid=0AAAAADHI_5gpgYyn0g9jDTpX0ZeBKkQrr&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYBCAAEgKfRfD_BwE&rd=1
+[12:39:59] SUCCESS: https://www.theretrospectdaily.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=Retro_Search&gad_source=1&gad_campaignid=23216788767&gbraid=0AAAABBex_LoULS2rz9eszI349GDk2nJpF&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYAyAAEgICrfD_BwE
+[12:40:06] SUCCESS: https://www.thedailyupside.com/welcome/?utm_source=newsletter&utm_medium=search&gad_source=1&gad_campaignid=21406494923&gbraid=0AAAAAp1LkV7cz1y74N7RE7xMRXdJpj_mv&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAMYAiAAEgIvFvD_BwE
+[12:40:06] SUCCESS: https://blog.google/newsletter-subscribe/
+[12:40:08] SUCCESS: https://www.target.com/c/sign-up-for-email/-/N-4so35
+[12:40:14] SUCCESS: https://www.backthenhistory.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=BTH_Search&gad_source=1&gad_campaignid=23070350566&gbraid=0AAAABBex_LpWAayLrKSSwv1_Xhk6o8dRh&gclid=EAIaIQobChMI_fX-78KQkgMVnEH_AR0mggSJEAAYAiAAEgJ2yPD_BwE
+[12:40:15] SUCCESS: https://thisweekinreact.com/
+[12:40:19] SUCCESS: https://www.fullstackexpress.io/
+[12:40:25] SUCCESS: https://www.theskimm.com/daily-skimm?trk=article-ssr-frontend-pulse_little-text-block
+[12:40:26] SUCCESS: https://www.mindstream.news/
+[12:40:28] SUCCESS: https://www.thedailyatom.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=DA_Search&gad_source=1&gad_campaignid=23060285703&gbraid=0AAAABBex_LpN1A3HCERLV0FmykYZfC9wD&gclid=EAIaIQobChMI5emlzsSQkgMV8jIIBR3zCDkTEAAYASAAEgKho_D_BwE
+[12:40:30] SUCCESS: https://join1440.com/?trk=article-ssr-frontend-pulse_little-text-block
+[12:40:30] SUCCESS: https://www.numlock.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2Fwww.numlock.com%2F%3Ftrk%3Darticle-ssr-frontend-pulse_little-text-block
+[12:50:54] SUCCESS: https://www.theretrospectdaily.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=Retro_Search&gad_source=1&gad_campaignid=23216788767&gbraid=0AAAABBex_LoULS2rz9eszI349GDk2nJpF&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYAyAAEgICrfD_BwE
+[12:50:54] SUCCESS: https://lp.join1440.com/240917/orig?utm_source=google&utm_medium=cpc&utm_term=keyword_newsletter+sign+up%3A%3Amatchtype_b&utm_content=694252955244%3A%3Anetwork_g%3A%3Adevice_c&utm_campaign=20583057583&gad_source=1&gad_campaignid=20583057583&gbraid=0AAAAADHI_5gpgYyn0g9jDTpX0ZeBKkQrr&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYBCAAEgKfRfD_BwE&rd=1
+[12:50:56] SUCCESS: https://www.backthenhistory.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=BTH_Search&gad_source=1&gad_campaignid=23070350566&gbraid=0AAAABBex_LpWAayLrKSSwv1_Xhk6o8dRh&gclid=EAIaIQobChMI_fX-78KQkgMVnEH_AR0mggSJEAAYAiAAEgJ2yPD_BwE
+[12:50:56] SUCCESS: https://tldr.tech
+[12:51:01] SUCCESS: https://www.target.com/c/sign-up-for-email/-/N-4so35
+[12:51:01] SUCCESS: https://blog.google/newsletter-subscribe/
+[12:51:05] SUCCESS: https://www.thedailyupside.com/welcome/?utm_source=newsletter&utm_medium=search&gad_source=1&gad_campaignid=21406494923&gbraid=0AAAAAp1LkV7cz1y74N7RE7xMRXdJpj_mv&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAMYAiAAEgIvFvD_BwE
+[12:51:05] SUCCESS: https://thisweekinreact.com/
+[12:51:05] SUCCESS: https://www.thedailyatom.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=DA_Search&gad_source=1&gad_campaignid=23060285703&gbraid=0AAAABBex_LpN1A3HCERLV0FmykYZfC9wD&gclid=EAIaIQobChMI5emlzsSQkgMV8jIIBR3zCDkTEAAYASAAEgKho_D_BwE
+[12:51:12] SUCCESS: https://www.mindstream.news/
+[12:51:12] SUCCESS: https://www.fullstackexpress.io/
+[12:51:15] SUCCESS: https://www.numlock.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2Fwww.numlock.com%2F%3Ftrk%3Darticle-ssr-frontend-pulse_little-text-block
+[12:51:18] SUCCESS: https://www.theskimm.com/daily-skimm?trk=article-ssr-frontend-pulse_little-text-block
+[12:51:21] SUCCESS: https://mymondaymantra.com/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[12:51:25] SUCCESS: https://newsletter.bitesizedbots.com/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[12:51:25] SUCCESS: https://www.thinkingunfortunately.org/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[12:51:26] SUCCESS: https://the-canadian-loyalist.beehiiv.com/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[12:51:27] SUCCESS: https://www.getdesignmind.com/
+[12:51:29] SUCCESS: https://newsletter.stablebread.com/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[12:51:34] SUCCESS: https://bytes.dev/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[12:51:34] SUCCESS: https://uxdesignweekly.com/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[12:51:37] SUCCESS: https://thesizzle.com.au/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[12:51:38] SUCCESS: https://highdegree.substack.com/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[12:52:11] SUCCESS: https://www.theretrospectdaily.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=Retro_Search&gad_source=1&gad_campaignid=23216788767&gbraid=0AAAABBex_LoULS2rz9eszI349GDk2nJpF&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYAyAAEgICrfD_BwE
+[12:52:12] SUCCESS: https://www.backthenhistory.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=BTH_Search&gad_source=1&gad_campaignid=23070350566&gbraid=0AAAABBex_LpWAayLrKSSwv1_Xhk6o8dRh&gclid=EAIaIQobChMI_fX-78KQkgMVnEH_AR0mggSJEAAYAiAAEgJ2yPD_BwE
+[12:52:12] SUCCESS: https://lp.join1440.com/240917/orig?utm_source=google&utm_medium=cpc&utm_term=keyword_newsletter+sign+up%3A%3Amatchtype_b&utm_content=694252955244%3A%3Anetwork_g%3A%3Adevice_c&utm_campaign=20583057583&gad_source=1&gad_campaignid=20583057583&gbraid=0AAAAADHI_5gpgYyn0g9jDTpX0ZeBKkQrr&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYBCAAEgKfRfD_BwE&rd=1
+[12:52:13] SUCCESS: https://tldr.tech
+[12:52:18] SUCCESS: https://www.target.com/c/sign-up-for-email/-/N-4so35
+[12:52:20] SUCCESS: https://blog.google/newsletter-subscribe/
+[12:52:22] SUCCESS: https://thisweekinreact.com/
+[12:52:22] SUCCESS: https://www.thedailyupside.com/welcome/?utm_source=newsletter&utm_medium=search&gad_source=1&gad_campaignid=21406494923&gbraid=0AAAAAp1LkV7cz1y74N7RE7xMRXdJpj_mv&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAMYAiAAEgIvFvD_BwE
+[12:52:22] SUCCESS: https://www.thedailyatom.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=DA_Search&gad_source=1&gad_campaignid=23060285703&gbraid=0AAAABBex_LpN1A3HCERLV0FmykYZfC9wD&gclid=EAIaIQobChMI5emlzsSQkgMV8jIIBR3zCDkTEAAYASAAEgKho_D_BwE
+[12:52:24] SUCCESS: https://www.fullstackexpress.io/
+[12:52:30] SUCCESS: https://www.mindstream.news/
+[12:52:30] SUCCESS: https://www.numlock.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2Fwww.numlock.com%2F%3Ftrk%3Darticle-ssr-frontend-pulse_little-text-block
+[12:52:32] SUCCESS: https://www.theskimm.com/daily-skimm?trk=article-ssr-frontend-pulse_little-text-block
+[12:52:35] SUCCESS: https://www.thinkingunfortunately.org/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[12:52:36] SUCCESS: https://simplyexplainednewsletter.substack.com/
+[12:52:38] SUCCESS: https://mymondaymantra.com/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[12:52:39] SUCCESS: https://newsletter.bitesizedbots.com/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[12:52:40] SUCCESS: https://the-canadian-loyalist.beehiiv.com/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[12:52:41] SUCCESS: https://www.getdesignmind.com/
+[12:52:44] SUCCESS: https://newsletter.stablebread.com/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[12:52:46] SUCCESS: https://uxdesignweekly.com/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[12:52:48] SUCCESS: https://thesizzle.com.au/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[12:52:48] SUCCESS: https://bytes.dev/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[12:52:52] SUCCESS: https://highdegree.substack.com/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[2026-01-16 12:58:13] SUCCESS: https://bytes.dev/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[2026-01-16 12:58:14] SUCCESS: https://blog.google/newsletter-subscribe/
+[2026-01-16 12:58:16] SUCCESS: https://join1440.com/?trk=article-ssr-frontend-pulse_little-text-block
+[2026-01-16 12:58:18] SUCCESS: https://lp.join1440.com/240917/orig?utm_source=google&utm_medium=cpc&utm_term=keyword_newsletter+sign+up%3A%3Amatchtype_b&utm_content=694252955244%3A%3Anetwork_g%3A%3Adevice_c&utm_campaign=20583057583&gad_source=1&gad_campaignid=20583057583&gbraid=0AAAAADHI_5gpgYyn0g9jDTpX0ZeBKkQrr&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYBCAAEgKfRfD_BwE&rd=1
+[2026-01-16 12:58:21] SUCCESS: https://mymondaymantra.com/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[2026-01-16 12:58:22] SUCCESS: https://newsletter.bitesizedbots.com/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[2026-01-16 12:58:25] SUCCESS: https://newsletter.stablebread.com/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[2026-01-16 12:58:29] SUCCESS: https://the-canadian-loyalist.beehiiv.com/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[2026-01-16 12:58:29] SUCCESS: https://thisweekinreact.com/
+[2026-01-16 12:58:30] SUCCESS: https://thesizzle.com.au/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[2026-01-16 12:58:33] SUCCESS: https://tldr.tech
+[2026-01-16 12:58:37] SUCCESS: https://www.backthenhistory.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=BTH_Search&gad_source=1&gad_campaignid=23070350566&gbraid=0AAAABBex_LpWAayLrKSSwv1_Xhk6o8dRh&gclid=EAIaIQobChMI_fX-78KQkgMVnEH_AR0mggSJEAAYAiAAEgJ2yPD_BwE
+[2026-01-16 12:58:38] SUCCESS: https://uxdesignweekly.com/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
+[2026-01-16 12:58:42] SUCCESS: https://www.fullstackexpress.io/
+[2026-01-16 12:58:43] SUCCESS: https://www.getdesignmind.com/
+[2026-01-16 12:58:45] SUCCESS: https://www.numlock.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2Fwww.numlock.com%2F%3Ftrk%3Darticle-ssr-frontend-pulse_little-text-block
+[2026-01-16 12:58:49] SUCCESS: https://www.mindstream.news/
+[2026-01-16 12:58:50] SUCCESS: https://www.thedailyatom.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=DA_Search&gad_source=1&gad_campaignid=23060285703&gbraid=0AAAABBex_LpN1A3HCERLV0FmykYZfC9wD&gclid=EAIaIQobChMI5emlzsSQkgMV8jIIBR3zCDkTEAAYASAAEgKho_D_BwE
+[2026-01-16 12:58:53] SUCCESS: https://www.thedailyupside.com/welcome/?utm_source=newsletter&utm_medium=search&gad_source=1&gad_campaignid=21406494923&gbraid=0AAAAAp1LkV7cz1y74N7RE7xMRXdJpj_mv&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAMYAiAAEgIvFvD_BwE
+[2026-01-16 12:58:54] SUCCESS: https://www.target.com/c/sign-up-for-email/-/N-4so35
+[2026-01-16 12:58:55] SUCCESS: https://www.theretrospectdaily.com/?utm_source=Google&utm_medium=Paid&utm_campaign=Minerva_Google&utm_content=Retro_Search&gad_source=1&gad_campaignid=23216788767&gbraid=0AAAABBex_LoULS2rz9eszI349GDk2nJpF&gclid=EAIaIQobChMIocej_MOQkgMV9EH_AR2kVB60EAAYAyAAEgICrfD_BwE
+[2026-01-16 12:58:59] SUCCESS: https://www.theskimm.com/daily-skimm?trk=article-ssr-frontend-pulse_little-text-block
+[2026-01-16 12:59:01] SUCCESS: https://www.thinkingunfortunately.org/?ref=amazingnewsletters.com&utm_source=amazingnewsletters.com&utm_campaign=amazingnewsletters.com&utm_medium=sponsorship
