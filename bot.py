@@ -9,7 +9,7 @@ import playwright_stealth
 G, R, C, W, B, RST = "\033[1;32m", "\033[1;31m", "\033[1;36m", "\033[1;37m", "\033[1m", "\033[0m"
 
 # --- CONFIGURATION ---
-MAX_CONCURRENT_TASKS = 4  # Adjust based on your RAM
+MAX_CONCURRENT_TASKS = 1  # Adjust based on your RAM
 AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
